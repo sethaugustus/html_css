@@ -1,0 +1,25 @@
+body{
+font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+
+}
+.block-height{
+  height: 300px;
+}
+.yellow{
+  background:yellow;
+}
+.brown{
+  background:brown;
+}
+.white{
+  background:white;
+}
+.blue{
+  background:blue;
+}
+.red{
+  background:red;
+}
+.row{
+
+}
